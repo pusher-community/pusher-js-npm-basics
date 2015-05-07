@@ -1,0 +1,30 @@
+{
+  "name": "pusher-js-npm-basics",
+  "version": "0.1.0",
+  "description": "Basic example of using pusher-js from NPM with Browserify and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pusher/pusher-js-npm-basics.git"
+  },
+  "keywords": [
+    "pusher",
+    "npm",
+    "browserify",
+    "webpack",
+    "pusher-js"
+  ],
+  "author": "Pusher <support@pusher.com> (https://pusher.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pusher/pusher-js-npm-basics/issues"
+  },
+  "homepage": "https://github.com/pusher/pusher-js-npm-basics",
+  "private": true,
+  "dependencies": {
+    "pusher-js": "^3.0.0"
+  }
+}
