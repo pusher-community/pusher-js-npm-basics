@@ -1,4 +1,4 @@
-var Pusher = require('../pusher');
+var Pusher = require('pusher-js');
 
 Pusher.log = function(msg) {
   console.log(msg);

@@ -3984,8 +3984,9 @@
 return Pusher;
 }));
 
+
 },{}],2:[function(require,module,exports){
-var Pusher = require('../pusher');
+var Pusher = require('pusher-js');
 
 Pusher.log = function(msg) {
   console.log(msg);
@@ -3997,4 +3998,4 @@ function App() {
 
 var app = new App();
 
-},{"../pusher":1}]},{},[2]);
+},{"pusher-js":1}]},{},[2]);
