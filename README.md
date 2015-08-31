@@ -9,7 +9,6 @@ This repo contains a **very simple** example of using [pusher-js from NPM](https
 ```
 git clone git@github.com:pusher/pusher-js-npm-basics.git
 cd pusher-js-npm-basics
-npm install
 ```
 
 ## Install pusher-js from NPM
